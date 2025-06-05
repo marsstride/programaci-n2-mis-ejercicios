@@ -1,1 +1,1 @@
-# programaci-n2-mis-ejercicios
+# programación-2-mis-ejercicios
