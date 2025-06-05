@@ -1,1 +1,1 @@
-# programación-2-mis-ejercicios
+# prog2-MariaVidaurreA
